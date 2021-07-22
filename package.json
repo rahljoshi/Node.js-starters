@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-starters",
+  "version": "1.0.0",
+  "description": "This reposiory will contain all the small projects which I will create during my learning process.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahljoshi/NodeJs-starters.git"
+  },
+  "author": "\"Rahul Joshi\"",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rahljoshi/NodeJs-starters/issues"
+  },
+  "homepage": "https://github.com/rahljoshi/NodeJs-starters#readme",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "validator": "^13.6.0",
+    "yargs": "^17.0.1"
+  }
+}
